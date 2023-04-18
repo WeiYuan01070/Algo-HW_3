@@ -21,6 +21,7 @@ class TAQQuotesReader(object):
     via a set of get methods.
     """
 
+
     def __init__(self, filePathName):
         """
         Do all the heavy lifting here and give users getters for the
